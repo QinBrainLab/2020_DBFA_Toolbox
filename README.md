@@ -1,6 +1,6 @@
 # Developmental Brain Functional Activity (DBFA) maps
 
-**Attention: Please unzip ‘package’ before installation.**
+**Attention: Please unzip files in ‘package’ folder before installation.**
 
 ‘AnaDir’ is the path where you installed Anaconda3. 
 ‘DBFADir’ is the path where the DevelopmentalBrainFunctionalActivityMaps folder locates. 
