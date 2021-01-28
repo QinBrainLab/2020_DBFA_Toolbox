@@ -1,0 +1,11 @@
+matplotlib-2.2.4-cp37-cp37m-win_amd64.whl
+pyproj-2.4.1-cp37-cp37m-win_amd64.whl
+basemap-1.2.1-cp37-cp37m-win_amd64.whl
+numpy-1.17.4+mkl-cp37-cp37m-win_amd64.whl
+scipy-1.4.0rc1-cp37-cp37m-win_amd64.whl
+scikit_learn-0.22-cp37-cp37m-win_amd64.whl
+Pillow-6.2.1-cp37-cp37m-win_amd64.whl
+PyQt5-5.10.1-5.10.1-cp35.cp36.cp37.cp38-none-win_amd64.whl
+nilearn
+nistats==0.0.1b1
+cx_freeze
